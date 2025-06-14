@@ -1,5 +1,8 @@
 ## MJ Jewelry — Jewelry & Fashion Website
 
+
+## 🖍️Description 
+
 Welcome to the official repository of **MJ JEWELRY 💎 Inc**, a modern jewelry and fashion brand showcasing timeless elegance and premium quality. This responsive website is designed with an **ivory-themed color palette** that reflects the sophistication and brilliance of our products.
 
 ---
