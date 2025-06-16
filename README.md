@@ -99,6 +99,7 @@ The **About** section includes:
   - Left: Brand name `Mj Jewelry 💎`
   - Center: `Home`, `Designs`, `Testimonials`, `Partners`, `About Us`
   - Right: Icons for Shopping Cart 🛒, Menu ☰, and Search 🔍
+  - Additionally the shopping cart also displays some list of items
 - 👕 **Showcase Sections**:
   - Jewelry (chains, watches, necklace)
 - 💬 **Testimonials Slider**:
