@@ -8,7 +8,7 @@ Welcome to the official repository of **MJ JEWELRY 💎 Inc**, a modern jewelry 
 ---
 
 ## 🌐 Live Preview
-> (Add your live website link here once hosted, e.g. GitHub Pages, Vercel, Netlify)
+> https://benson-jamie.github.io/MJ-Jewelry-Final-Project/
 
 ---
 
