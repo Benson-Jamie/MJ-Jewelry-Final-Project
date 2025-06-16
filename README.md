@@ -153,7 +153,7 @@ To run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/diamonds-inc.git
+git clone https://github.com/Benson-Jamie/MJ-Jewelry-Final-Project.git
 Open index.html in your preferred browser.
 
 Optional: Use VS Code Live Server extension for real-time editing.
@@ -162,7 +162,7 @@ Optional: Use VS Code Live Server extension for real-time editing.
 
           ## ⚠️ Image Licensing Notice
 
- All images used in the ** Designs**, **Testimonials** and **Partners** sections are publicly sourced for demo and educational purposes only.  
+ All images used in the **Designs**, **Testimonials** and **Partners** sections are publicly sourced for demo and educational purposes only.  
  Mj Jewels does not claim ownership of these assets.
 
 ---
