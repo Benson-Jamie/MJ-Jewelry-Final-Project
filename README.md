@@ -133,18 +133,16 @@ The **About** section includes:
 ## 🗂️ Folder Structure
 
 ```plaintext
-📁 My Jewelry Store/
-├── 📄 index.html
-├── 📄 styles.css
-├── 📄 index.js
-├── 📄 readme.md
-└── 📁 assets/
-      ├── 📁 background
-      ├── 📁 bracelet
-      ├── 📁 chain
-      ├── 📁 testimonials
-      ├── 📁 watch
-      └── 📁 women
+📁 MJ-Jewelry-Final-Project/
+├── 📁 docs/
+       ├── 📄 index.html
+       ├── 📄 styles.css
+       ├── 📄 index.js
+       ├── 📄 config.yml
+       ├── 📁 assets
+            ├── 📄 images
+
+└──  📄 README.md
 ```
 
 ---
