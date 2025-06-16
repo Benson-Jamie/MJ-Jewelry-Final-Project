@@ -1,1 +1,16 @@
+title: MJ Jewelry Final Project
+description: Discover beautiful, handcrafted jewelry at MJ Jewelry. Explore our unique collections of watches, necklaces, bracelet and more—perfect for every occasion.
+theme: jekyll-theme-primer
 
+# Optional settings
+# url: "https://benson-jamie.github.io/MJ-Jewelry-Final-Project"
+# baseurl: "/MJ-Jewelry-Final-Project"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
